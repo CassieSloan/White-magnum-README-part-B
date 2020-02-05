@@ -56,6 +56,18 @@ We also used sticky notes on the wall for daily breakdowns and assigning difficu
 ![](./kanban3.JPG)
 ![](./kanban4.JPG)
 
+###Presentation slides
+![](bronte-preso/1.JPEG)
+![](bronte-preso/2.JPEG)
+![](bronte-preso/3.JPEG)
+![](bronte-preso/4.JPEG)
+![](bronte-preso/5.JPEG)
+![](bronte-preso/6.JPEG)
+![](bronte-preso/7.JPEG)
+![](bronte-preso/8.JPEG)
+![](bronte-preso/9.JPEG)
+![](bronte-preso/10.JPEG)
+
 ---
 
 PART A README
